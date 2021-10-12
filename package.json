@@ -1,0 +1,19 @@
+{
+  "name": "t-hee-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Node.js",
+  "scripts": {
+    "start": "node Node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manbo214xmen/T-hee-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manbo214xmen/T-hee-2/issues"
+  },
+  "homepage": "https://github.com/manbo214xmen/T-hee-2#readme"
+}
